@@ -11,18 +11,19 @@
     color: #444;
 }
 
-.headerTitlesm{
-    position: absolute;
-    top: 18%;
-    font-size:20px ;
-
-}
-
 .headerTitlelg{
     position:absolute;
     top: 20%;
     font-size: 100px;
 }
+
+.headerTitlesm{
+    position: absolute;
+    top: 38%;
+    font-size:25px ;
+
+}
+
 
 .headerImg{
     width: 100%;
